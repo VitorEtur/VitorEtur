@@ -56,7 +56,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<table width="100%"> 
+<table width="100%" bordeer="0"> 
   <tr>
     <td width="50%">
       <img width="100%" src="https://streak-stats.demolab.com/?user=VitorEtur&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
