@@ -62,7 +62,8 @@
       <img width="100%" src="https://streak-stats.demolab.com/?user=VitorEtur&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
     </td>
     <td width="50%">
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorEtur&layout=compact&theme=dracula)
+        
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorEtur&layout=compact&theme=radical)
     </td>
   </tr>
 </table>
