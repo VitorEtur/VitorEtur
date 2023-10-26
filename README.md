@@ -16,7 +16,7 @@
 
  💬 Ask me about **anything [here](https://github.com/VitorEtur/VitorEtur/issues)**
 
- ⚡ Fun fact **Did you know that in Red Dead Redemption 2, if you wait long enough, Arthur can start to hum or sing to himself?**
+ ⚡ Fun fact **In RDR2, if you wait long enough, Arthur can start to hum or sing to himself!**
  
  </div>
  
