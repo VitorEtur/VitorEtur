@@ -58,10 +58,15 @@
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=VitorEtur&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-VitorEtur.vercel.app/api?username=VitorEtur&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=VitorEtur&show_icons=true)
   <br/>
     
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorEtur&layout=compact&theme=dracula)
+
+<br/>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VitorEtur)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
