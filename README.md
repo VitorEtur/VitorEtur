@@ -55,11 +55,19 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-    <br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=VitorEtur&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-    
+<br>
+<table width="100%"> 
+  <tr>
+    <td width="50%">
+      <img width="100%" src="https://streak-stats.demolab.com/?user=VitorEtur&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+    </td>
+    <td width="50%">
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorEtur&layout=compact&theme=dracula)
+    </td>
+  </tr>
+</table>
+    
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorEtur&show_icons=true&theme=radical)
 
