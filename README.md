@@ -58,13 +58,14 @@
     <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=VitorEtur&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-    <br/>
+    
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorEtur&layout=compact&theme=dracula)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorEtur&show_icons=true&theme=radical)
 
 
     
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorEtur&layout=compact&theme=dracula)
+
 
 <br/>
 
