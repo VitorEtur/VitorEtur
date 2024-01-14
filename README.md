@@ -16,7 +16,7 @@
 
  💬 Ask me about **anything [here](https://github.com/VitorEtur/VitorEtur/issues)**
 
- ⚡ Fun fact **In RDR2, if you wait long enough, Arthur can start to hum or sing to himself!**
+ ⚡ Hobby: **Trophy Hunter 🏆**
  
  </div>
  
